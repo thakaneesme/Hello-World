@@ -1,2 +1,5 @@
 # Hello-World
-My first repository 
+ 
+Thakane here
+
+I like toast and running
